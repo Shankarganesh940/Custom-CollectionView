@@ -12,6 +12,7 @@
 		E80C9F022295226A00C16F16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E80C9F002295226A00C16F16 /* Main.storyboard */; };
 		E80C9F042295226B00C16F16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E80C9F032295226B00C16F16 /* Assets.xcassets */; };
 		E80C9F072295226B00C16F16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E80C9F052295226B00C16F16 /* LaunchScreen.storyboard */; };
+		E80C9F0F229522E000C16F16 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80C9F0E229522E000C16F16 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E80C9F032295226B00C16F16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E80C9F062295226B00C16F16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E80C9F082295226B00C16F16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E80C9F0E229522E000C16F16 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E80C9EFC2295226A00C16F16 /* AppDelegate.swift */,
 				E80C9EFE2295226A00C16F16 /* ViewController.swift */,
+				E80C9F0E229522E000C16F16 /* CollectionViewCell.swift */,
 				E80C9F002295226A00C16F16 /* Main.storyboard */,
 				E80C9F032295226B00C16F16 /* Assets.xcassets */,
 				E80C9F052295226B00C16F16 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				E80C9EFF2295226A00C16F16 /* ViewController.swift in Sources */,
 				E80C9EFD2295226A00C16F16 /* AppDelegate.swift in Sources */,
+				E80C9F0F229522E000C16F16 /* CollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
